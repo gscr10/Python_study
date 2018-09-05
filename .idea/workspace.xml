@@ -63,20 +63,21 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="66" />
+          <entry key="py" value="67" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="66" />
+          <entry key="Python" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -98,20 +99,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/名片管理系统/cards_main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="12" column="18" lean-forward="true" selection-end-line="38" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/名片管理系统/cards_tools.py">
+        <entry file="file://$PROJECT_DIR$/r_21_异常.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3412">
-              <caret line="15" column="19" selection-end-line="190" />
+            <state relative-caret-position="415">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
             </state>
           </provider>
         </entry>
@@ -126,6 +118,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -138,6 +133,7 @@
         <option value="$PROJECT_DIR$/r_08_高级变量.py" />
         <option value="$PROJECT_DIR$/r_19_类属性与类方法.py" />
         <option value="$PROJECT_DIR$/r_23_包.py" />
+        <option value="$PROJECT_DIR$/r_21_异常.py" />
       </list>
     </option>
   </component>
@@ -152,6 +148,7 @@
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,8 +175,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Python37" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.26223093" />
     <property name="two.files.diff.last.used.folder" value="C:/Python37" />
   </component>
@@ -388,9 +385,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32910448" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +396,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32869378" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32976446" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32976446" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -455,13 +451,7 @@
     <entry file="file://$PROJECT_DIR$/名片管理系统/111.ipynb" />
     <entry file="file://$PROJECT_DIR$/cards_tools.py" />
     <entry file="file://$PROJECT_DIR$/cards_main.py" />
-    <entry file="file://$PROJECT_DIR$/r_15_继承1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/r_15_继承1.py" />
     <entry file="file://$PROJECT_DIR$/r_01_hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -564,13 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="30" column="18" lean-forward="true" selection-end-line="110" />
-          <folding>
-            <marker date="1536119249401" expanded="true" signature="894:897" ph="..." />
-            <marker date="1536119249401" expanded="true" signature="913:914" ph="..." />
-            <marker date="1536119249401" expanded="true" signature="913:916" ph="..." />
-            <marker date="1536119249401" expanded="true" signature="955:958" ph="..." />
-            <marker date="1536119249401" expanded="true" signature="1008:1011" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,13 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-899">
           <caret line="9" lean-forward="true" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/r_21_异常.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="12" lean-forward="true" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -669,9 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <element signature="e#46#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,23 +666,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="22" lean-forward="true" selection-end-line="59" />
-          <folding>
-            <element signature="e#144#175#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/名片管理系统/cards_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="12" column="18" lean-forward="true" selection-end-line="38" selection-end-column="27" />
+        <state relative-caret-position="264">
+          <caret line="12" column="18" selection-end-line="38" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/名片管理系统/cards_tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3412">
+        <state relative-caret-position="330">
           <caret line="15" column="19" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r_21_异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
     </entry>
